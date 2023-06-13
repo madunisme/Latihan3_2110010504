@@ -3,7 +3,7 @@ package geometri;
 
 
 public class Lingkaran {
-    private double radius;
+     double radius;
     
     
     public double luas (){
